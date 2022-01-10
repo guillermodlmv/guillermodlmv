@@ -27,7 +27,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillermodlmv&layout=compact&hide=html" alt="guillermodlmv" /></p>
   
 </div>
-
+</br>
 
 <details>
 <summary>GitHub stats</summary>
