@@ -30,7 +30,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 </br>
 </br>
-
+---
 <details align="center" width='100%'>
 <summary>GitHub stats</summary>
 
