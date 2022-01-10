@@ -29,7 +29,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 </div>
 </br>
 </br>
----
+
 <!-- <details align="center" width='100%'>
 <summary>GitHub stats</summary>
 
@@ -37,8 +37,9 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 ----
 </details> -->
 
----
 
+</br>
+---
 
 <div>
 <i>Follow me around the web:</i><br>
