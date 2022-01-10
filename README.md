@@ -25,7 +25,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 </br>
 <div  align="right"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillermodlmv&layout=compact&hide=html" alt="guillermodlmv" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillermodlmv&layout=compact&hide=html" alt="guillermodlmv" /></p>
 </div>
 </br>
 <details>
