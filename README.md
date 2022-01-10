@@ -19,18 +19,22 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 </div>
 
-<div>
-<img  align="left" src="https://github-readme-stats.vercel.app/api?username=guillermodlmv&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F50" alt="guillermodlmv's Github Stats">
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillermodlmv&layout=compact&hide=html" alt="guillermodlmv" />
-</div>
-<br/>
 
-<details>
+<div align="center">
+<img  align="center" src="https://github-readme-stats.vercel.app/api?username=guillermodlmv&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F50" alt="guillermodlmv's Github Stats">
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillermodlmv&layout=compact&hide=html" alt="guillermodlmv" /></p>
+</div>
+<br>
+<details align="center" width='100%'>
 <summary>GitHub stats</summary>
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guillermodlmv)
+----
 </details>
 
+
 ---
+
 <div align="center">
 <i>Follow me around the web:</i><br>
 <a href="https://www.linkedin.com/in/guillermo-de-la-mora/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
