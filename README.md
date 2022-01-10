@@ -28,16 +28,20 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <br/>
 <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillermodlmv&layout=compact&hide=html" alt="guillermodlmv" />
 <br><br>
+
+
+<br/>
+
+
+<div align="center">
 <details>
 <summary>GitHub stats</summary>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guillermodlmv)
-----
+
 </details>
-
-<br/>
+</div>
 ---
-
 <div align="center">
 <i>Follow me around the web:</i><br>
 <a href="https://www.linkedin.com/in/guillermo-de-la-mora/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
