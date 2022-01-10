@@ -40,6 +40,6 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <a href="https://www.linkedin.com/in/guillermo-de-la-mora/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/guillermo.delamora.12" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 </div>
-
+<div align="center">
 ![Profile views](https://gpvc.arturio.dev/guillermodlmv)  
-
+</div>
